@@ -13,5 +13,13 @@
 /*.pidb
 /*.booproj
 
+**/bin/Debug/
+**/bin/Release/
+**/Library
+**/Output
+**/ProjectSettings
+**/3d
+**/images
+
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
